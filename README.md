@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luc</h1>
 <h3 align="center">I Code, play TTRPGs and cry a lot</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=customroses" alt="customroses" /></a> </p>
-
 - 🔭 I’m currently working on [ddpp](https://github.com/CustomRoses/ddpp)
 
 - 🌱 I’m currently learning **Clojure**
