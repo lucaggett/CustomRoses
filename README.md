@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ddpp](https://github.com/CustomRoses/ddpp)
 
-- 🌱 I’m currently learning **Clojure**
+- 🌱 I’m currently learning **Clojure** and **Python**
 
 - 📝 I (sometimes) write articles on [nothome.xyz](nothome.xyz)
 
