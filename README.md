@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luc</h1>
 <h3 align="center">I Code, play TTRPGs and cry a lot</h3>
 
-- 🔭 I’m currently working on [ddpp](https://github.com/CustomRoses/ddpp) and a very [cursed decorator](https://github.com/CustomRoses/cursed_decorator)
+- 🔭 I’m currently working on University Projects, which are private by necessity.
 
 - 🌱 I’m currently learning **Clojure** and **Python**
 
