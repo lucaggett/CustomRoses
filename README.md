@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Clojure** and **Python**
 
-- 📝 I (sometimes) write articles on [nothome.xyz](nothome.xyz)
+- 📝 I am a TA in the course Programming Techniques for Computational linguistics 1
 
-- 📫 How to reach me **luc@nothome.xyz**
+- 📫 How to reach me **luc@aggett.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
