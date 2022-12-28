@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Clojure** and **Python**
 
-- 📝 I am a TA in the course Programming Techniques for Computational linguistics 1
+- 📝 I am a TA in the course Programming Techniques for Computational Linguistics 1
 
 - 📫 How to reach me **luc@aggett.com**
 
